@@ -22,5 +22,6 @@ build/
 # dotenv environmental variable configuration
 **/.env
 
-# typescript
+# typescript compilation
 *.tsbuildinfo
+next-env.d.ts
